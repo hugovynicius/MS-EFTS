@@ -19,3 +19,17 @@ Multistep ahead time series forecasting is essential in Internet of Things (IoT)
 
 H. V. Bitencourt, P. d. O. Lucas, O. Orang, P. C. L. Silva, and F. G. Guimarães, “A multistep multivariate fuzzy-based time series forecasting on Internet of Things data,” IEEE Internet Things J., vol. 12, no. 12, pp. 21679–21690, Jun. 2025.
 
+Please cite using the following BibTex entry:
+
+```
+@ARTICLE{BITENCOURT2025MS-EFTS,
+  author={Bitencourt, Hugo Vinicius and Lucas, Patrícia de Oliveira and Orang, Omid and Silva, Petrônio C. L. and Guimarães, Frederico Gadelha},
+  journal={IEEE Internet of Things Journal}, 
+  title={A Multistep Multivariate Fuzzy-Based Time-Series Forecasting on Internet of Things Data}, 
+  year={2025},
+  volume={12},
+  number={12},
+  pages={21679-21690},
+  keywords={Forecasting;Time series analysis;Internet of Things;Predictive models;Accuracy;Buildings;Adaptation models;Smart cities;Data models;Training;Embedding transformation;fuzzy time series;multistep-ahead time-series forecasting;smart buildings;smart cities},
+  doi={10.1109/JIOT.2025.3549715}}
+```
